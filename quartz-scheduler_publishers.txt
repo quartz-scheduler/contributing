@@ -1,0 +1,14 @@
+This file contains a list of persons who are "Publishers" for the 
+Quartz Scheduler (https://github.com/quartz-scheduler/) open source projects.
+
+Having been invited to become a "Publisher" a person creates a Pull Request
+on this file that adds their name and contact information to the list below,
+and in so doing agrees to follow all of the guidelines and policies documented
+at: https://github.com/quartz-scheduler/contributing/CONTRIBUTING.md
+
+
+Active Publishers:
+
+Publisher Name, Publisher GitHub.com username, Email adress/contact, Date Added
+=================================================================================
+James House, jhouserizer, james.house@gmail.com, 23-07-2021
