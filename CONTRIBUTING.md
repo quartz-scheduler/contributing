@@ -16,7 +16,7 @@ In brief, the process is as simple as:
 * Create a Pull Request (PR) from your fork to the original project, on the appropriate branch
 * Await feedback on your contribution (which will typically come in the form of comments on your PR)
 
-Please review the following sections that have additional important information.
+Please also review the following sections that have additional important information.
 
 ## Community Guidelines
 
