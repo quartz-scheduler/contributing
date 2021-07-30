@@ -1,11 +1,11 @@
 
-# Contributing to Terracotta Projects
+# Contributing to the Quartz Scheduler Project
 
 _We're happy to have you participate in our community with your contributions!_
 
 ## Process
 
-Terracotta projects are owned by Software AG.  Please follow the simple Software AG contribution process documented here: https://github.com/SoftwareAG/contributing/blob/main/CONTRIBUTING.md
+The Quartz Scheduler project is owned by Software AG.  Please follow the simple Software AG contribution process documented here: https://github.com/SoftwareAG/contributing/blob/main/CONTRIBUTING.md
 
 We strongly recommend that you pay special attention to the "Note on Privacy" on that page and review the Contributor's License Agreement (linked from that page) in full.
 
