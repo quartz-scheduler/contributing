@@ -12,4 +12,4 @@ Active Publishers:
 Publisher Name, Publisher GitHub.com username, Email adress/contact, Date Added
 =================================================================================
 James House, jhouserizer, james.house@gmail.com, 23-07-2021
-Biswajit Bhuyan, vionixt, biswajit.cs07@gmail.com, 30-07-2021
+Biswajit Bhuyan, vionixt, biswajit.cs07@gmail.com, 30-07-2021 
