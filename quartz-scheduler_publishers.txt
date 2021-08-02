@@ -4,7 +4,7 @@ Quartz Scheduler (https://github.com/quartz-scheduler/) open source projects.
 Having been invited to become a "Publisher" a person creates a Pull Request
 on this file that adds their name and contact information to the list below,
 and in so doing agrees to follow all of the guidelines and policies documented
-at: https://github.com/quartz-scheduler/contributing/CONTRIBUTING.md
+at: https://github.com/quartz-scheduler/contributing/blob/main/CONTRIBUTING.md
 
 
 Active Publishers:
