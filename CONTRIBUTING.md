@@ -3,6 +3,16 @@
 
 _We're happy to have you participate in our community with your contributions!_
 
+## Legal
+
+All original contributions to Quartz-Scheduler project ("Quartz") are licensed under the Apache License, version 2.0 or later.
+
+The Apache License 2.0 text is included verbatim in the [LICENSE.txt](https://github.com/quartz-scheduler/quartz/blob/main/LICENSE.txt) file in the root directory of the 'quartz' repository.
+
+All contributions are subject to the Developer Certificate of Origin (DCO).
+
+The DCO text is available verbatim in the [dco.txt][dco.txt] file in the root directory of the 'contributing' repository.
+
 ## Process
 
 The Quartz Scheduler project is owned by IBM.  Please follow the simple contribution process documented here.
@@ -10,7 +20,7 @@ The Quartz Scheduler project is owned by IBM.  Please follow the simple contribu
 In brief, the process is as simple as:
 
 * Fork the code repository
-* Commit your changes with the _-s_ option to agree to the DCO and "sign over" copyright ownership to IBM
+* Commit your changes with the _-s_ option to agree to the DCO, and "sign over" copyright ownership to IBM
 * If you introduce new files, include license (APL 2.0) and copyright (IBM) headers in the files
 * Create a Pull Request (PR) from your fork to the original project, on the appropriate branch - please note the template questions/agreements on the PR.
 * Await feedback on your contribution (which will typically come in the form of comments on your PR)
