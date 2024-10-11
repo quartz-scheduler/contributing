@@ -5,15 +5,13 @@ _We're happy to have you participate in our community with your contributions!_
 
 ## Process
 
-The Quartz Scheduler project is owned by Software AG.  Please follow the simple Software AG contribution process documented here: https://github.com/SoftwareAG/contributing/blob/main/CONTRIBUTING.md
-
-We strongly recommend that you pay special attention to the "Note on Privacy" on that page and review the Contributor's License Agreement (linked from that page) in full.
+The Quartz Scheduler project is owned by IBM.  Please follow the simple contribution process documented here.
 
 In brief, the process is as simple as:
 
 * Fork the code repository
-* Commit your changes with the _-s_ option to agree to the CLA and "sign over" copyright ownership
-* Create a Pull Request (PR) from your fork to the original project, on the appropriate branch
+* Commit your changes with the _-s_ option to agree to the DCO and "sign over" copyright ownership to IBM
+* Create a Pull Request (PR) from your fork to the original project, on the appropriate branch - please note the template questions/agreements on the PR.
 * Await feedback on your contribution (which will typically come in the form of comments on your PR)
 
 Please also review the following sections that have additional important information.
@@ -40,7 +38,7 @@ Publishers review PRs from other contributors, and have the rights to merge thos
 
 Publishers rights, duties, and responsibilities include:
 * Reviewing and Merging Pull Requests
-  - Ensure that the PR has a signed-off contributor license agreement ([CLA]( https://github.com/SoftwareAG/contributing/blob/main/CONTRIBUTING.md))
+  - Ensure that the PR has a signed-off (DCO) on all of its commits, and agreements on PR template questions/agreements
   - Ensure coding guidelines and community conduct guidelines are not violated
   - Review for functional correctness and possible performance impact
   - Review for possible security vulnerabilities or malicious intent
@@ -54,8 +52,3 @@ Publishers rights, duties, and responsibilities include:
     - Contributions that otherwise necessitate a Major or Minor version bump require discussion and vote from at least two additional project Admins/Publishers
 * Actively seek input and opinions from other project Publishers and contributors when reviewing contributions that have significant impact
 * Fostering and protecting a healthy project community culture
-
-
-
-
-
