@@ -11,6 +11,7 @@ In brief, the process is as simple as:
 
 * Fork the code repository
 * Commit your changes with the _-s_ option to agree to the DCO and "sign over" copyright ownership to IBM
+* If you introduce new files, include license (APL 2.0) and copyright (IBM) headers in the files
 * Create a Pull Request (PR) from your fork to the original project, on the appropriate branch - please note the template questions/agreements on the PR.
 * Await feedback on your contribution (which will typically come in the form of comments on your PR)
 
