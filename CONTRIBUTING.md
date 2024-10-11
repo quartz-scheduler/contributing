@@ -11,7 +11,7 @@ The Apache License 2.0 text is included verbatim in the [LICENSE.txt](https://gi
 
 All contributions are subject to the Developer Certificate of Origin (DCO).
 
-The DCO text is available verbatim in the [dco.txt][dco.txt] file in the root directory of the 'contributing' repository.
+The DCO text is available verbatim in the [dco.txt](dco.txt) file in the root directory of the 'contributing' repository.
 
 ## Process
 
